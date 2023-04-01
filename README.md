@@ -4,3 +4,4 @@
 * [Catalog](https://msu-libraries.github.io/catalog/)
 * [oai_repo](https://msu-libraries.github.io/oai_repo/)
 * [mtxbatch](https://msu-libraries.github.io/mtxbatch/)
+* [conreboot](https://msu-libraries.github.io/conreboot/)
